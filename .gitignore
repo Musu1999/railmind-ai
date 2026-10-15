@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+# generated at runtime by scripts/train_all.py
+data/generated/
+artifacts/
+.ruff_cache/

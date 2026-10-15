@@ -1,0 +1,305 @@
+[
+ {
+  "id": "cancel-confirmed",
+  "title": "Cancellation charges for confirmed tickets",
+  "tags": [
+   "cancel",
+   "cancellation",
+   "charges",
+   "refund",
+   "confirmed"
+  ],
+  "text": "For a confirmed ticket cancelled more than 48 hours before scheduled departure, a flat cancellation charge applies per passenger: Rs 240 for AC First Class and Executive Class, Rs 200 for AC 2 Tier and First Class, Rs 180 for AC 3 Tier, AC Chair Car and AC 3 Economy, Rs 120 for Sleeper and Rs 60 for Second Class. Between 48 hours and 12 hours before departure, 25 percent of the fare is deducted, subject to the minimum flat charge. Between 12 hours and 4 hours before departure (or until chart preparation, whichever is earlier), 50 percent of the fare is deducted. After chart preparation no refund is given on a confirmed ticket unless a TDR is filed for an eligible reason.",
+  "text_hi": "48 घंटे से पहले रद्द करने पर प्रति यात्री निश्चित शुल्क लगता है: एसी फर्स्ट क्लास Rs 240, एसी 2 टियर Rs 200, एसी 3 टियर/चेयर कार Rs 180, स्लीपर Rs 120 और सेकंड क्लास Rs 60। 48 से 12 घंटे पहले किराए का 25 प्रतिशत और 12 से 4 घंटे पहले 50 प्रतिशत कटता है। चार्ट बनने के बाद कन्फर्म टिकट पर रिफंड नहीं मिलता, केवल योग्य कारणों से TDR दायर किया जा सकता है।",
+  "text_bn": "যাত্রার 48 ঘণ্টা আগে বাতিল করলে যাত্রী প্রতি নির্দিষ্ট চার্জ: এসি ফার্স্ট Rs 240, এসি 2 টিয়ার Rs 200, এসি 3 টিয়ার/চেয়ার কার Rs 180, স্লিপার Rs 120, সেকেন্ড ক্লাস Rs 60। 48 থেকে 12 ঘণ্টা আগে ভাড়ার 25 শতাংশ এবং 12 থেকে 4 ঘণ্টা আগে 50 শতাংশ কাটা হয়। চার্ট তৈরির পরে কনফার্ম টিকিটে রিফান্ড হয় না, তবে উপযুক্ত কারণে TDR করা যায়।"
+ },
+ {
+  "id": "cancel-wl-rac",
+  "title": "Cancelling Waiting List and RAC tickets",
+  "tags": [
+   "waiting",
+   "wl",
+   "rac",
+   "cancel",
+   "refund",
+   "clerkage"
+  ],
+  "text": "RAC and Waiting List tickets can be cancelled up to 30 minutes before scheduled departure. A clerkage charge of Rs 60 per passenger (plus applicable GST) is deducted and the balance is refunded. If an e-ticket remains fully on the Waiting List after chart preparation, the passenger's name is dropped and the full fare minus clerkage is refunded automatically to the original payment account.",
+  "text_hi": "आरएसी और वेटिंग लिस्ट टिकट प्रस्थान से 30 मिनट पहले तक रद्द किए जा सकते हैं। प्रति यात्री Rs 60 क्लर्केज शुल्क (और GST) कटता है। चार्ट बनने के बाद भी पूरी तरह वेटिंग लिस्ट में रहे ई-टिकट अपने आप रद्द हो जाते हैं और क्लर्केज काटकर बाकी राशि मूल खाते में लौटा दी जाती है।",
+  "text_bn": "আরএসি ও ওয়েটিং লিস্ট টিকিট ছাড়ার 30 মিনিট আগে পর্যন্ত বাতিল করা যায়। যাত্রী প্রতি Rs 60 ক্লার্কেজ (ও GST) কাটা হয়। চার্টের পরেও পুরো ওয়েটিং লিস্টে থাকা ই-টিকিট স্বয়ংক্রিয়ভাবে বাতিল হয় এবং ক্লার্কেজ বাদে বাকি টাকা মূল অ্যাকাউন্টে ফেরত যায়।"
+ },
+ {
+  "id": "refund-timeline",
+  "title": "Refund timelines",
+  "tags": [
+   "refund",
+   "status",
+   "days",
+   "money",
+   "bank",
+   "track",
+   "paisa wapas",
+   "kab aayega",
+   "kitne din",
+   "how long",
+   "when will i get"
+  ],
+  "text": "Refunds for e-tickets are credited to the same bank account, card or UPI used for payment. The railway initiates the refund usually within 1 to 2 working days of cancellation; the bank may take a further 3 to 7 working days to show the credit. Refund status can be tracked by PNR under My Transactions, Booked Ticket History, or by asking this assistant with your PNR.",
+  "text_hi": "ई-टिकट का रिफंड उसी बैंक खाते, कार्ड या UPI में आता है जिससे भुगतान हुआ था। रेलवे आमतौर पर रद्द करने के 1 से 2 कार्य दिवस में रिफंड शुरू करता है और बैंक को 3 से 7 कार्य दिवस और लग सकते हैं। अपना PNR बताकर आप रिफंड स्थिति देख सकते हैं।",
+  "text_bn": "ই-টিকিটের রিফান্ড একই ব্যাংক অ্যাকাউন্ট, কার্ড বা UPI-তে জমা হয়। রেলওয়ে সাধারণত বাতিলের 1 থেকে 2 কার্যদিবসের মধ্যে রিফান্ড শুরু করে এবং ব্যাংকের আরও 3 থেকে 7 কার্যদিবস লাগতে পারে। PNR জানিয়ে রিফান্ডের অবস্থা দেখা যায়।"
+ },
+ {
+  "id": "tdr",
+  "title": "Ticket Deposit Receipt (TDR)",
+  "tags": [
+   "tdr",
+   "refund",
+   "missed",
+   "late",
+   "ac failure",
+   "claim"
+  ],
+  "text": "A TDR (Ticket Deposit Receipt) is filed online to claim a refund after chart preparation in special cases, for example when the train runs more than 3 hours late and the passenger did not travel, when the AC was not working in an AC class, when the passenger travelled in a lower class than booked, or when the train was diverted. TDRs must be filed within the time limit for each reason, generally before the actual departure or within 72 hours of arrival.",
+  "text_hi": "चार्ट बनने के बाद विशेष मामलों में रिफंड के लिए ऑनलाइन TDR दायर किया जाता है, जैसे ट्रेन 3 घंटे से अधिक लेट हो और यात्री ने यात्रा न की हो, एसी काम न कर रहा हो, निचली श्रेणी में यात्रा करनी पड़ी हो, या ट्रेन का मार्ग बदला गया हो।"
+ },
+ {
+  "id": "tatkal",
+  "title": "Tatkal booking rules",
+  "tags": [
+   "tatkal",
+   "booking",
+   "time",
+   "10",
+   "11",
+   "aadhaar",
+   "urgent",
+   "last minute"
+  ],
+  "text": "Tatkal booking opens one day in advance, excluding the date of journey: at 10:00 AM for AC classes and 11:00 AM for non-AC classes. Online Tatkal bookings require an Aadhaar-authenticated user account and OTP verification. Tatkal charges are added on top of the base fare and are a percentage of the fare subject to a minimum and maximum per class. Confirmed Tatkal tickets are not refundable on cancellation; waiting-list Tatkal tickets are refunded as per normal waiting-list rules.",
+  "text_hi": "तत्काल बुकिंग यात्रा से एक दिन पहले खुलती है: एसी श्रेणी के लिए सुबह 10:00 बजे और नॉन-एसी के लिए 11:00 बजे। ऑनलाइन तत्काल बुकिंग के लिए आधार-सत्यापित खाता और OTP आवश्यक है। कन्फर्म तत्काल टिकट रद्द करने पर रिफंड नहीं मिलता।",
+  "text_bn": "তৎকাল বুকিং যাত্রার এক দিন আগে খোলে: এসি শ্রেণির জন্য সকাল 10:00 এবং নন-এসির জন্য 11:00। অনলাইন তৎকালের জন্য আধার-যাচাই করা অ্যাকাউন্ট ও OTP লাগে। কনফার্ম তৎকাল টিকিট বাতিলে রিফান্ড হয় না।"
+ },
+ {
+  "id": "arp",
+  "title": "Advance reservation period",
+  "tags": [
+   "advance",
+   "how early",
+   "days",
+   "open",
+   "booking window",
+   "60"
+  ],
+  "text": "Reserved tickets can be booked up to 60 days in advance, excluding the date of journey. Some daytime intercity trains have shorter advance reservation periods. Booking early improves the chance of a confirmed berth, especially around festivals such as Diwali, Chhath, Durga Puja and Holi.",
+  "text_hi": "आरक्षित टिकट यात्रा की तारीख को छोड़कर 60 दिन पहले तक बुक किए जा सकते हैं। त्योहारों के आसपास जल्दी बुकिंग से कन्फर्म बर्थ की संभावना बढ़ती है।",
+  "text_bn": "সংরক্ষিত টিকিট যাত্রার তারিখ বাদে 60 দিন আগে পর্যন্ত বুক করা যায়। উৎসবের সময় আগে বুক করলে কনফার্ম বার্থের সম্ভাবনা বাড়ে।"
+ },
+ {
+  "id": "chart",
+  "title": "Reservation chart preparation",
+  "tags": [
+   "chart",
+   "prepared",
+   "final",
+   "status",
+   "when"
+  ],
+  "text": "The first reservation chart is prepared about 8 hours before the scheduled departure, so waiting-list passengers know their status earlier. For trains departing before 2:00 PM the first chart is prepared by 9:00 PM on the previous day. A second chart is prepared about 30 minutes before departure for any berths released after the first chart.",
+  "text_hi": "पहला आरक्षण चार्ट निर्धारित प्रस्थान से लगभग 8 घंटे पहले बनता है। दोपहर 2 बजे से पहले चलने वाली ट्रेनों का पहला चार्ट पिछले दिन रात 9 बजे तक बनता है। दूसरा चार्ट प्रस्थान से लगभग 30 मिनट पहले बनता है।"
+ },
+ {
+  "id": "wl-types",
+  "title": "Waiting list types (GNWL, RLWL, PQWL, TQWL)",
+  "tags": [
+   "gnwl",
+   "rlwl",
+   "pqwl",
+   "tqwl",
+   "waiting",
+   "types",
+   "chance"
+  ],
+  "text": "GNWL (General Waiting List) is issued for journeys from the originating station and usually has the best chance of confirmation. RLWL (Remote Location Waiting List) applies to intermediate stations with a separate quota. PQWL (Pooled Quota Waiting List) is shared by several short-distance stations and confirms less often. TQWL is the Tatkal waiting list, which confirms only from Tatkal cancellations. Use the confirmation predictor for a probability based on your train, class, date and position.",
+  "text_hi": "GNWL मूल स्टेशन से यात्रा के लिए होती है और आमतौर पर इसके कन्फर्म होने की संभावना सबसे अधिक होती है। RLWL और PQWL बीच के स्टेशनों के कोटे के लिए होती हैं और कम कन्फर्म होती हैं। TQWL तत्काल वेटिंग लिस्ट है।"
+ },
+ {
+  "id": "rac",
+  "title": "What RAC means",
+  "tags": [
+   "rac",
+   "reservation against cancellation",
+   "side lower",
+   "share"
+  ],
+  "text": "RAC (Reservation Against Cancellation) lets two passengers share a side lower berth so both can board. An RAC passenger is allotted a full berth if confirmed passengers cancel or do not turn up. RAC tickets are valid for travel; Waiting List e-tickets are not.",
+  "text_hi": "आरएसी (रिज़र्वेशन अगेंस्ट कैंसलेशन) में दो यात्री एक साइड लोअर बर्थ साझा करते हैं और दोनों यात्रा कर सकते हैं। रद्दीकरण होने पर पूरी बर्थ मिल सकती है। वेटिंग लिस्ट ई-टिकट पर यात्रा मान्य नहीं है।",
+  "text_bn": "আরএসি-তে দুজন যাত্রী একটি সাইড লোয়ার বার্থ ভাগ করে যাত্রা করতে পারেন। বাতিল হলে পুরো বার্থ পাওয়া যেতে পারে। ওয়েটিং লিস্ট ই-টিকিটে যাত্রা বৈধ নয়।"
+ },
+ {
+  "id": "wl-travel",
+  "title": "Can I travel on a waiting list e-ticket?",
+  "tags": [
+   "travel",
+   "waiting",
+   "board",
+   "valid",
+   "fine"
+  ],
+  "text": "Passengers holding a fully waitlisted e-ticket after chart preparation are not permitted to travel in reserved coaches; the ticket is automatically cancelled and refunded. A counter (PRS) waiting-list ticket may be used to travel in the unreserved general coach. Travelling in a reserved coach without a valid reservation can attract a penalty.",
+  "text_hi": "चार्ट बनने के बाद पूरी तरह वेटिंग वाले ई-टिकट पर आरक्षित डिब्बे में यात्रा की अनुमति नहीं है; टिकट अपने आप रद्द होकर रिफंड हो जाता है।"
+ },
+ {
+  "id": "senior",
+  "title": "Senior citizens, women and lower berth quota",
+  "tags": [
+   "senior",
+   "lower berth",
+   "women",
+   "elderly",
+   "pregnant",
+   "quota"
+  ],
+  "text": "A lower berth quota is reserved in sleeper and AC classes for senior citizens (men 60 and above, women 45 and above when travelling alone or in pairs) and for pregnant women. The system tries to allot lower berths automatically when available. Concessional fares for senior citizens are currently not offered on most trains.",
+  "text_hi": "स्लीपर और एसी श्रेणियों में वरिष्ठ नागरिकों और गर्भवती महिलाओं के लिए लोअर बर्थ कोटा होता है। उपलब्ध होने पर सिस्टम अपने आप लोअर बर्थ देने का प्रयास करता है।"
+ },
+ {
+  "id": "baggage",
+  "title": "Luggage allowance",
+  "tags": [
+   "luggage",
+   "baggage",
+   "kg",
+   "weight",
+   "allowance"
+  ],
+  "text": "Free luggage allowance depends on class, for example about 40 kg in Sleeper, 40 kg in AC 3 Tier and AC Chair Car, 50 kg in AC 2 Tier and 70 kg in AC First Class. Extra luggage should be booked at the parcel office before departure; excess luggage found unbooked may be charged at a higher rate.",
+  "text_hi": "मुफ्त सामान सीमा श्रेणी पर निर्भर है, जैसे स्लीपर में लगभग 40 किलो, एसी 2 टियर में 50 किलो और एसी फर्स्ट में 70 किलो। अतिरिक्त सामान पार्सल कार्यालय में बुक करें।"
+ },
+ {
+  "id": "booking-help",
+  "title": "How to book a ticket",
+  "tags": [
+   "book",
+   "booking",
+   "how",
+   "steps",
+   "reserve",
+   "ticket"
+  ],
+  "text": "To book, sign in, enter the source, destination and date, choose a train and class, add passenger details and preferences, review the fare and pay. You can also ask the AI Travel Planner in plain language, for example: Pune to Delhi tomorrow under Rs 1500 reaching before 10 AM. The planner compares options and books only after you approve.",
+  "text_hi": "बुकिंग के लिए लॉग इन करें, स्रोत, गंतव्य और तारीख डालें, ट्रेन और श्रेणी चुनें, यात्री विवरण भरें और भुगतान करें। आप AI ट्रैवल प्लानर से सामान्य भाषा में भी पूछ सकते हैं; वह आपकी मंज़ूरी के बाद ही बुक करता है।",
+  "text_bn": "বুক করতে লগ ইন করে উৎস, গন্তব্য ও তারিখ দিন, ট্রেন ও শ্রেণি বেছে যাত্রীর তথ্য দিয়ে পেমেন্ট করুন। AI ট্রাভেল প্ল্যানারকে সাধারণ ভাষায়ও বলতে পারেন; আপনার অনুমোদনের পরেই সে বুক করে।"
+ },
+ {
+  "id": "payment-failed",
+  "title": "Money deducted but ticket not booked",
+  "tags": [
+   "payment",
+   "failed",
+   "deducted",
+   "not booked",
+   "debited"
+  ],
+  "text": "If money was debited but no ticket was generated, the amount is refunded automatically to the original payment method, normally within 3 to 7 working days. Do not book again with the same transaction ID. If the refund does not arrive in that time, raise a complaint with the transaction ID through customer care.",
+  "text_hi": "यदि पैसा कट गया लेकिन टिकट नहीं बना, तो राशि आमतौर पर 3 से 7 कार्य दिवस में मूल भुगतान माध्यम में अपने आप लौट आती है। समय पर न आए तो ट्रांज़ैक्शन ID के साथ शिकायत दर्ज करें।"
+ },
+ {
+  "id": "boarding-change",
+  "title": "Changing boarding station",
+  "tags": [
+   "boarding",
+   "change",
+   "station",
+   "board"
+  ],
+  "text": "The boarding point of an online ticket can be changed at least 24 hours before the scheduled departure of the train. Once changed, the passenger cannot board from the original station, and the change can be made only once per ticket.",
+  "text_hi": "ऑनलाइन टिकट का बोर्डिंग स्टेशन ट्रेन के प्रस्थान से कम से कम 24 घंटे पहले बदला जा सकता है। यह बदलाव केवल एक बार किया जा सकता है।"
+ },
+ {
+  "id": "id-proof",
+  "title": "ID proof while travelling",
+  "tags": [
+   "id",
+   "identity",
+   "proof",
+   "aadhaar",
+   "document"
+  ],
+  "text": "One passenger on a reserved ticket must carry an original photo identity card such as Aadhaar, PAN card, passport, driving licence or voter ID. An SMS or screenshot of the e-ticket along with valid ID is accepted on board.",
+  "text_hi": "आरक्षित टिकट पर एक यात्री के पास मूल फोटो पहचान पत्र होना चाहिए, जैसे आधार, पैन कार्ड, पासपोर्ट, ड्राइविंग लाइसेंस या वोटर ID। ई-टिकट का SMS या स्क्रीनशॉट मान्य है।"
+ },
+ {
+  "id": "security",
+  "title": "Account security and OTP safety",
+  "tags": [
+   "otp",
+   "password",
+   "fraud",
+   "scam",
+   "safe",
+   "security",
+   "hacked"
+  ],
+  "text": "Railway staff and this assistant will never ask for your password, OTP, card PIN or CVV. Do not share them with anyone. If you notice bookings you did not make, change your password immediately and report the account; our fraud detection system also flags unusual activity automatically.",
+  "text_hi": "रेलवे कर्मचारी या यह सहायक कभी भी आपका पासवर्ड, OTP, कार्ड PIN या CVV नहीं मांगेगा। इन्हें किसी से साझा न करें। अनजान बुकिंग दिखे तो तुरंत पासवर्ड बदलें और खाते की शिकायत करें।",
+  "text_bn": "রেল কর্মী বা এই সহায়ক কখনও আপনার পাসওয়ার্ড, OTP, কার্ড PIN বা CVV চাইবে না। কাউকে দেবেন না। অচেনা বুকিং দেখলে সঙ্গে সঙ্গে পাসওয়ার্ড বদলান ও রিপোর্ট করুন।"
+ },
+ {
+  "id": "delay-refund",
+  "title": "Refund when the train is late or cancelled",
+  "tags": [
+   "late",
+   "delay",
+   "cancelled train",
+   "refund",
+   "3 hours"
+  ],
+  "text": "If the railway cancels a train, the full fare is refunded automatically for e-tickets. If a train is running more than 3 hours late and the passenger chooses not to travel, a full refund can be claimed by cancelling or filing a TDR before the actual departure of the train.",
+  "text_hi": "यदि रेलवे ट्रेन रद्द करता है, तो ई-टिकट का पूरा किराया अपने आप लौटाया जाता है। ट्रेन 3 घंटे से अधिक लेट हो और यात्री यात्रा न करे, तो वास्तविक प्रस्थान से पहले TDR दायर कर पूरा रिफंड लिया जा सकता है।",
+  "text_bn": "রেলওয়ে ট্রেন বাতিল করলে ই-টিকিটের পুরো ভাড়া স্বয়ংক্রিয়ভাবে ফেরত হয়। ট্রেন 3 ঘণ্টার বেশি দেরিতে চললে এবং যাত্রী না গেলে প্রকৃত ছাড়ার আগে TDR করে পুরো রিফান্ড পাওয়া যায়।"
+ },
+ {
+  "id": "food",
+  "title": "Food and e-catering",
+  "tags": [
+   "food",
+   "meal",
+   "catering",
+   "pantry",
+   "order"
+  ],
+  "text": "Meals are included in the fare on some premium trains such as Rajdhani, Shatabdi, Duronto and Vande Bharat unless the passenger opts out while booking. On other trains, food can be bought from the pantry car or ordered through e-catering for delivery at a station en route using the PNR.",
+  "text_hi": "राजधानी, शताब्दी, दुरंतो और वंदे भारत जैसी कुछ प्रीमियम ट्रेनों में भोजन किराए में शामिल होता है। अन्य ट्रेनों में पैंट्री कार या PNR से ई-कैटरिंग द्वारा भोजन मंगाया जा सकता है।"
+ },
+ {
+  "id": "complaint",
+  "title": "Raising a complaint",
+  "tags": [
+   "complaint",
+   "grievance",
+   "rail madad",
+   "help",
+   "dirty",
+   "staff",
+   "issue"
+  ],
+  "text": "Complaints about cleanliness, staff behaviour, medical help, security or refunds can be registered on the Rail Madad portal or app, or by calling the integrated helpline 139. Keep your PNR handy; you receive a reference number to track the complaint.",
+  "text_hi": "सफाई, कर्मचारियों के व्यवहार, चिकित्सा सहायता, सुरक्षा या रिफंड से संबंधित शिकायतें रेल मदद पोर्टल/ऐप या हेल्पलाइन 139 पर दर्ज करें। अपना PNR तैयार रखें।",
+  "text_bn": "পরিচ্ছন্নতা, কর্মীদের আচরণ, চিকিৎসা, নিরাপত্তা বা রিফান্ডের অভিযোগ রেল মদদ পোর্টাল/অ্যাপ বা হেল্পলাইন 139-এ জানান। আপনার PNR হাতে রাখুন।"
+ },
+ {
+  "id": "flexi",
+  "title": "Flexi fare on premium trains",
+  "tags": [
+   "flexi",
+   "fare",
+   "price",
+   "dynamic",
+   "increase",
+   "rajdhani",
+   "costly"
+  ],
+  "text": "Rajdhani, Shatabdi and Duronto trains use flexi fares for most classes: the fare rises by about 10 percent for each 10 percent of berths sold, up to a cap of 1.5 times the base fare. Booking earlier when fewer seats are sold usually gives a lower fare. The fare predictor shows the expected fare movement and the best day to book.",
+  "text_hi": "राजधानी, शताब्दी और दुरंतो में फ्लेक्सी किराया लागू है: हर 10 प्रतिशत बर्थ बिकने पर किराया लगभग 10 प्रतिशत बढ़ता है, अधिकतम मूल किराए का 1.5 गुना। जल्दी बुक करने पर आमतौर पर किराया कम होता है।"
+ }
+]
